@@ -19,7 +19,7 @@ This repository contains a Jupyter Notebook that performs exploratory data analy
 Clone this repository to your local machine to get started.
 
 ```bash
-git clone <Repository URL>
+git clone https://github.com/anikethhebbar/iris-classification.git
 ```
 
 ### Step 2: Install Dependencies
